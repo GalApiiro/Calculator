@@ -20,5 +20,15 @@
             <version>5.7.0</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>redis.clients</groupId>
+            <artifactId>jedis</artifactId>
+            <version>2.7.3</version>
+        </dependency>
+        <dependency>
+            <groupId>dummy.group</groupId>
+            <artifactId>dummy.artifact</artifactId>
+            <version>3.1.4</version>
+        </dependency>
     </dependencies>
 </project>
